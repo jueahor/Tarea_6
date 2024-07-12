@@ -1,6 +1,8 @@
 # Tarea_6
 
-# Cambios Realizados:Uso de Bootstrap: Se ha añadido la hoja de estilos de Bootstrap para facilitar la creación de un diseño responsivo y moderno.
+## Cambios Realizados:
+
+# Uso de Bootstrap: Se ha añadido la hoja de estilos de Bootstrap para facilitar la creación de un diseño responsivo y moderno.
 
 # Estructura del Formulario: Se ha cambiado la estructura de los campos del formulario para que utilicen las clases de Bootstrap (form-group, form-control, btn, etc.) para una mejor presentación y usabilidad.
 
